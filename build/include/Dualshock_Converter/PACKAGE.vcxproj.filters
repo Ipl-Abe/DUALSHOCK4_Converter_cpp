@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\c33536ee9fc0e7d850495bade5d25024\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5A37A273-C41A-357F-9777-72C6210A194B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

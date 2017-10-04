@@ -1,0 +1,345 @@
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine �o�[�W���� 12.0.31101.0
+[Microsoft .NET Framework�A�o�[�W���� 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:48 �Ƀr���h���J�n���܂����B
+�m�[�h 1 ��̃v���W�F�N�g "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\3.8.0-rc4\CompilerIdC\CompilerIdC.vcxproj" (����̃^�[�Q�b�g)�B
+PrepareForBuild:
+  �f�B���N�g�� "Debug\" ���쐬���Ă��܂��B
+  �f�B���N�g�� "Debug\CompilerIdC.tlog\" ���쐬���Ă��܂��B
+InitializeBuildStatus:
+  "AlwaysCreate" ���w�肳�ꂽ���� "Debug\CompilerIdC.tlog\unsuccessfulbuild" ���쐬���Ă��܂��B
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\3.8.0-rc4\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  �t�@�C�� "Debug\CompilerIdC.tlog\unsuccessfulbuild" ���폜���Ă��܂��B
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate" �̃^�b�` �^�X�N�����s���Ă��܂��B
+�v���W�F�N�g "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\3.8.0-rc4\CompilerIdC\CompilerIdC.vcxproj" (����̃^�[�Q�b�g) �̃r���h���������܂����B
+
+�r���h�ɐ������܂����B
+    0 �̌x��
+    0 �G���[
+
+�o�ߎ��� 00:00:01.26
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/3.8.0-rc4/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine �o�[�W���� 12.0.31101.0
+[Microsoft .NET Framework�A�o�[�W���� 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:50 �Ƀr���h���J�n���܂����B
+�m�[�h 1 ��̃v���W�F�N�g "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\3.8.0-rc4\CompilerIdCXX\CompilerIdCXX.vcxproj" (����̃^�[�Q�b�g)�B
+PrepareForBuild:
+  �f�B���N�g�� "Debug\" ���쐬���Ă��܂��B
+  �f�B���N�g�� "Debug\CompilerIdCXX.tlog\" ���쐬���Ă��܂��B
+InitializeBuildStatus:
+  "AlwaysCreate" ���w�肳�ꂽ���� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ���쐬���Ă��܂��B
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\3.8.0-rc4\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  �t�@�C�� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" ���폜���Ă��܂��B
+  "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate" �̃^�b�` �^�X�N�����s���Ă��܂��B
+�v���W�F�N�g "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\3.8.0-rc4\CompilerIdCXX\CompilerIdCXX.vcxproj" (����̃^�[�Q�b�g) �̃r���h���������܂����B
+
+�r���h�ɐ������܂����B
+    0 �̌x��
+    0 �G���[
+
+�o�ߎ��� 00:00:00.73
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/3.8.0-rc4/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_b6615.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:51 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_b6615.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_b6615.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_b6615.dir\Debug\cmTC_b6615.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_b6615.dir\Debug\cmTC_b6615.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_b6615.dir\Debug\\" /Fd"cmTC_b6615.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_b6615.dir\Debug\\" /Fd"cmTC_b6615.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_b6615.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_b6615.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_b6615.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_b6615.dir\Debug\testCCompiler.obj
+  cmTC_b6615.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_b6615.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_b6615.dir\Debug\cmTC_b6615.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_b6615.dir\Debug\cmTC_b6615.tlog\cmTC_b6615.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_b6615.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.82
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_7b0b7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:52 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_7b0b7.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_7b0b7.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_7b0b7.dir\Debug\cmTC_7b0b7.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_7b0b7.dir\Debug\cmTC_7b0b7.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_7b0b7.dir\Debug\\" /Fd"cmTC_7b0b7.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCCompilerABI.c"
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_7b0b7.dir\Debug\\" /Fd"cmTC_7b0b7.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_7b0b7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_7b0b7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_7b0b7.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_7b0b7.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_7b0b7.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_7b0b7.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_7b0b7.dir\Debug\cmTC_7b0b7.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_7b0b7.dir\Debug\cmTC_7b0b7.tlog\cmTC_7b0b7.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_7b0b7.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.53
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_1b104.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:53 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_1b104.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_1b104.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_1b104.dir\Debug\cmTC_1b104.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_1b104.dir\Debug\cmTC_1b104.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1b104.dir\Debug\\" /Fd"cmTC_1b104.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1b104.dir\Debug\\" /Fd"cmTC_1b104.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_1b104.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_1b104.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_1b104.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_1b104.dir\Debug\testCXXCompiler.obj
+  cmTC_1b104.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_1b104.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_1b104.dir\Debug\cmTC_1b104.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_1b104.dir\Debug\cmTC_1b104.tlog\cmTC_1b104.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_1b104.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.54
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_14909.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:54 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_14909.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_14909.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_14909.dir\Debug\cmTC_14909.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_14909.dir\Debug\cmTC_14909.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_14909.dir\Debug\\" /Fd"cmTC_14909.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_14909.dir\Debug\\" /Fd"cmTC_14909.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\fumi0\Desktop\cmake-3.8.0-rc4-win32-x86\share\cmake-3.8\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_14909.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_14909.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_14909.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_14909.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_14909.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_14909.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_14909.dir\Debug\cmTC_14909.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_14909.dir\Debug\cmTC_14909.tlog\cmTC_14909.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_14909.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.54
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_9e694.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine バージョン 12.0.31101.0
+[Microsoft .NET Framework、バージョン 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/10/02 13:56:54 にビルドを開始しました。
+ノード 1 上のプロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_9e694.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_9e694.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_9e694.dir\Debug\cmTC_9e694.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_9e694.dir\Debug\cmTC_9e694.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9e694.dir\Debug\\" /Fd"cmTC_9e694.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\feature_tests.cxx
+  Microsoft(R) C/C++ Optimizing Compiler Version 18.00.40629 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9e694.dir\Debug\\" /Fd"cmTC_9e694.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_9e694.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_9e694.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/fumi0/workspace/DualShock_Converter_cpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_9e694.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_9e694.dir\Debug\feature_tests.obj
+  cmTC_9e694.vcxproj -> C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_9e694.exe
+FinalizeBuildStatus:
+  ファイル "cmTC_9e694.dir\Debug\cmTC_9e694.tlog\unsuccessfulbuild" を削除しています。
+  "cmTC_9e694.dir\Debug\cmTC_9e694.tlog\cmTC_9e694.lastbuildstate" のタッチ タスクを実行しています。
+プロジェクト "C:\Users\fumi0\workspace\DualShock_Converter_cpp\build\CMakeFiles\CMakeTmp\cmTC_9e694.vcxproj" (既定のターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.56
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

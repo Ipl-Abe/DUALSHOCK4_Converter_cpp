@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fumi0\workspace\DualShock_Converter_cpp\src\Dualshock_Converter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\fumi0\workspace\DualShock_Converter_cpp\include\Dualshock_Converter\Dualshock_Converter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fumi0\workspace\DualShock_Converter_cpp\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7C153258-AE7F-3EC2-B5F1-68AC8E660A15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0E1452D6-6853-3AFB-A873-5C195FD8CCD4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
